@@ -1,3 +1,3 @@
 # express-test
-## 建構環境
-### 使用npm 安裝node.js / express-handlebars / express
+## 運行環境
+### node.js / express / express-handlebars
